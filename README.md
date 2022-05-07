@@ -1,5 +1,5 @@
 # api_yatube
-Приложение к проекту **YaTube** https://github.com/Bazulenkov/hw05_final
+Приложение к проекту **YaTube** https://github.com/Bazulenkov/yatube
 позволяет работать с порталом YaTube через API
 
 *запросы к API начинаются с `/api/v1/`*  
